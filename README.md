@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello, I'm Shimekit Tadele Gebabo 👋
 
-<!--
-**shimekit/shimekit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+I am a Senior Lecturer in Genetics in the Applied Biology Program at Adama Science and Technology University (ASTU), Ethiopia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic and research interests include:
+
+- Genetics and plant genetic diversity
+- Applied genetics and plant genetic resources
+- Bioinformatics and computational biology
+- Molecular marker analysis and population genetics
+- Research data analysis and scientific reproducibility
+
+Current Goals:
+
+- Develop my skills in bioinformatics and computational biology.
+- Learn and apply R and Python for genetic data analysis.
+- Build reproducible research workflows.
+- Contribute to scientific and open-source research communities.
+
+Connect:
+
+- Institution: Adama Science and Technology University (ASTU), Ethiopia
+- GitHub: [@shimekit](https://github.com/shimekit)
