@@ -10,6 +10,7 @@ My academic and research interests include:
 - Applied genetics and plant genetic resources
 - Bioinformatics and computational biology
 - Molecular marker analysis and population genetics
+- Nutrition and Food Security 
 - Research data analysis and scientific reproducibility
 
 Current Goals:
